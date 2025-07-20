@@ -1,4 +1,4 @@
-const BASE_URL='http://localhost:5000';
+const BASE_URL='https://moonshot-4pog.onrender.com';
 
 const URLS={
   CONTACT:`${BASE_URL}/contact`
