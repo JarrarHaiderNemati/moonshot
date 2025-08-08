@@ -712,6 +712,10 @@ footer {
         transition: left 0.3s ease;
     }
 
+    .social-links {
+        justify-content: center;
+    }
+
     .nav-links.active {
         left: 0;
     }
@@ -770,6 +774,10 @@ footer {
     .cta-button {
         width: 100%;
         max-width: 300px;
+    }
+    
+    .social-links {
+        justify-content: center;
     }
 }
 
